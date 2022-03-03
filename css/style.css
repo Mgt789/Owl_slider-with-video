@@ -1,0 +1,58 @@
+/* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.row{
+  padding: 0;
+  margin: 0;
+}
+.text h1{
+  font-size: 3.5rem;
+}
+.text{
+  display: flex;
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  font-family: 'Times New Roman';
+}
+.first{
+  padding: 70px;
+}
+.container-fluid{
+
+  background-color: #9932cc;
+}
+
+.sec-text{
+  align-self: center;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  color: white;
+  font-weight: bold;
+  padding: 100px 70px;
+}
+.sec-text h1{
+  font-family: 'Times New Roman';
+  font-size: 3rem;
+}
+.sec-text p{
+  font-size: 12px;
+  text-decoration: none;
+  padding-top: 10px;
+}
+.vdo{
+  padding:50px 0px;
+}
+video{
+  border-style: groove;
+  border-color: white;
+  height: 500px;
+  width: 500px;
+}
